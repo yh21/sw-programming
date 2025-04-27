@@ -1,0 +1,5 @@
+name = input('Enter your name: ')
+age = int(input('Enter your age: '))
+print('your name is %s' %name)
+print('your age is %d' %age)
+print('%s\'s age is %d' %(name, age))
